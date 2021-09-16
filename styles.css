@@ -29,8 +29,7 @@ main {
 }
 
 main textarea ::-webkit-input-placeholder {
-  font-family: "Times New Roman", Times, serif;
-  background-color: yellow;
+  font-family: "Kalam", cursive;
 }
 
 #txt-input {
